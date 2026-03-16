@@ -1,4 +1,4 @@
-#Full-Stack Event Booking Platform
+##Full-Stack Event Booking Platform
 
 Developed a full-stack event booking platform using the MERN stack that enables users to browse events, request ticket bookings, and
 securely confirm reservations through OTP verification. Implemented JWT-based authentication with bcrypt password hashing and rolebased access control for Admin and User functionalities. The platform includes event management features for creating events and
